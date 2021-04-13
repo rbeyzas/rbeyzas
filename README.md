@@ -1,4 +1,5 @@
-###                                                                    Hi there 👋 I'm Beyza.
+<h1 align="center">Hi 👋 I'm Beyza</h1>
+<h3 align="center">A Software Developer from Adana/Turkey</h3>
 
 <!--
 **rbeyzas/rbeyzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
