@@ -2,9 +2,6 @@
 <h3 align="center">A Software Developer from Adana/Turkey</h3>
 
 
-**rbeyzas/rbeyzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently working on React.js and Meteor.js.
 - 🌱 I’m currently learning Vue.js.
