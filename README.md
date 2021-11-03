@@ -6,9 +6,8 @@
 
 
 
-- 🔭 I’m currently working on React.js and Meteor.js
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on React.js and Meteor.js.
+- 🌱 I’m currently learning Vue.js.
 - 💬 You can ask me about the software.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbeyzas" alt="rbeyzas" /></a> </p>
